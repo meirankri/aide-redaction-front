@@ -1,0 +1,6 @@
+cachier des charges
+
+creer editeur de texte:
+
+qui comptes les mots
+contient un champs ou l'on peut ajouter ses mots clé et sourligner quand ils sont ecrit dans notre texte
